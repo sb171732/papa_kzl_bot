@@ -1,0 +1,19 @@
+{
+  "name": "papa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "firebase": "^9.7.0",
+    "firebase-admin": "^10.1.0",
+    "nodemon": "^2.0.16",
+    "telegraf": "3.38"
+  }
+}
